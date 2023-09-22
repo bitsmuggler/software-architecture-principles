@@ -1,10 +1,10 @@
-# Software Architecture Principles
+# Architecture Principles
 
-My thoughts and notes about software architecture principles.
+My thoughts and notes about architecture principles.
 
 ```mermaid
 mindmap
-  root((Software Architecture Principles))
+  root((Architecture Principles))
     What are architecture principles?
         Foundation for a system of belief or behavior
     Why should we use architecture principles?
