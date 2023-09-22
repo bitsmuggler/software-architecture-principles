@@ -12,11 +12,10 @@ mindmap
         Communication (Argueing)
     Software Architecture Principes
         Architecture Principles
-            Example principles
-                Principle of Least Effort (POLE)
-                Principle of Opportunity Cost
-                Open Groupw principles
-                Continuous Architecture Principles
+            Principle of Least Effort (POLE)
+            Principle of Opportunity Cost
+            Open Group principles
+            Continuous Architecture Principles
         Design Principles
             SOLID
             Separation of Concerns
