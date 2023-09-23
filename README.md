@@ -14,6 +14,12 @@ mindmap
         Making teams effective
             Very valueable in **negotiating** and communicating decisions with key stakeholder
             Have an effective dialogue **highlighting future problems** that can occur if the principles are violated
+    When should you introduce architecture principles?
+        You should introduce principles wherever wrong decisions or inconsistencies would cause harm. This is very often the case with architectural works.
+        You find that individual technical solutions, concepts or approaches work very well and want to facilitate their application in order to further disseminate knowledge about them.
+        You find inconsistent, contradictory, or obstructive choices. Find an appropriate principle that prevents similar problems in the future, and refactor accordingly.
+        If you collect quality scenarios, you will find that very many requirements aim in a similar direction.
+        [As you work on an architectural issue, realise that later decisions will have an impact on meeting the underlying requirements. Use principles to guide those future decisions in a "pleasant" direction.]
     Characteristics of good architecture principles
         Comprehensive and Clear
             The principle is reasonable, logical and consistent.
@@ -22,10 +28,11 @@ mindmap
         Testable
         Atomic
             ["The principle does not require any other context or knowledge to be understood"]    
-    Architecture Principes
+    Principes
         Architecture Principles
             ["Principle of Least Effort (POLE)"]
             Principle of Opportunity Cost
+            Principle of the last responsible moment
             [TOGAF - Open Group principles]
                 Categorization
                     Business
@@ -55,5 +62,6 @@ mindmap
 
 ### Further resources
 
+* [Architecture Principles: An approach to effective decision making in software architecture](https://www.workingsoftware.dev/architecture-principles/)
 * [Continuous Architecture Principles](https://continuousarchitecture.com/continuous-architecture-principles/)
 * [TOGAF Architecture Principles](https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap20.html)
