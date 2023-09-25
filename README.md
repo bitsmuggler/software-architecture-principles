@@ -50,13 +50,31 @@ mindmap
                 [Prefer standard data formats over third-party formats over user created ones.]
         Design Principles
             SOLID
+                [5 principles for object-oriented design]
+                    [Single-Responsiblity Principle]
+                        [A class should have one and only one reason to change, meaning that a class should have only one job.]
+                    [Open-Closed Principle]
+                        [Objects or entities should be open for extension but closed for modification.]
+                    [Liskov Substituion Principle]
+                        [Every subclass or derived class should be substitutable for their base or parent class.]
+                    [Interface Segregation Principle]
+                        [A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.]
+                    [Dependency Inversion Principle]
+                        [Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.]
+            Loose Coupling
+            High Cohesion
+            Design for Change
+            Information Hiding
+            Abstraction
+            Modularity
+            Traceability
+            [Self-Documentation]
+            Incrementality
             Separation of Concerns
             Encapsulation
-            DRY Don't repeat yourself
+            [Don't repeat yourself]
             Dependency Inversion
             Explicit dependency
-            Single responsibility
-            Open Closed
 ```
 
 
@@ -65,3 +83,4 @@ mindmap
 * [Architecture Principles: An approach to effective decision making in software architecture](https://www.workingsoftware.dev/architecture-principles/)
 * [Continuous Architecture Principles](https://continuousarchitecture.com/continuous-architecture-principles/)
 * [TOGAF Architecture Principles](https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap20.html)
+* [SOLID Principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
