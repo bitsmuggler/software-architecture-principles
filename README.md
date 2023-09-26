@@ -2,8 +2,8 @@
 
 My thoughts and notes about architecture principles.
 
-```mermaid
-%%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
+```{.mermaid theme=forest}
+
 mindmap
   root((Architecture Principles))
     What is a principles?
