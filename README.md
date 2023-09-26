@@ -4,7 +4,7 @@ My thoughts and notes about architecture principles.
 
 ``` mermaid
 
-%%{init: {'theme': 'dark', "flowchart" : { "curve" : "basis" } } }%%
+%%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
 
 mindmap
   root((Architecture Principles))
