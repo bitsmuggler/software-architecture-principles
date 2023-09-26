@@ -33,9 +33,6 @@ mindmap
             ["The principle does not require any other context or knowledge to be understood"]    
     Principes
         Architecture Principles
-            ["Principle of Least Effort (POLE)"]
-            Principle of Opportunity Cost
-            Principle of the last responsible moment
             [TOGAF - Open Group principles]
                 Categorization
                     Business
@@ -51,6 +48,9 @@ mindmap
             Examples
                 [Use managed services when vendor lock-in is acceptable.]
                 [Prefer standard data formats over third-party formats over user created ones.]
+                ["Principle of Least Effort (POLE)"]
+                Principle of Opportunity Cost
+                Principle of the last responsible moment
         Design Principles
             SOLID
                 [5 principles for object-oriented design]
