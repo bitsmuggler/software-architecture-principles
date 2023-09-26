@@ -2,14 +2,51 @@
 
 My thoughts and notes about architecture principles.
 
+
+## Overview
+
+
 ``` mermaid
 
 %%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
 
 mindmap
   root((Architecture Principles))
-    What is a principles?
+    What is a principle?
+    What types of architectural relevant principles are there? 
+    What are architecture principles?
+    Why should we use architecture principles?
+    When should you introduce architecture principles?
+    Characteristics of good architecture principles
+```
+
+## What is a principle?
+
+``` mermaid
+
+%%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
+
+mindmap
+  root((Architecture Principles))
+    What is a principle?
+        ["Wikipedia: Foundation for a system of belief or behavior"]
+        ["Eoin Woods: A declarative statement with the intention of guiding architectural design decisions in order to achieve one or more qualities of a system."]
+```
+
+### Complete
+
+``` mermaid
+
+%%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
+
+mindmap
+  root((Architecture Principles))
+    What is a principle?
         ["Foundation for a system of belief or behavior"]
+    What types of architectural relevant principles are there?
+        Enterprise principles
+        Architecture principles
+        Design principles
     What are architecture principles?
         ["Eoin Woods: A declarative statement made with the intention of guiding architectural design decisions in order to achieve one or more qualities of a system."]
         ["TOGAF: Architecture Principles define the underlying general rules and guidelines for the use and deployment of all IT resources and assets across the enterprise. They reflect a level of consensus among the various elements of the enterprise, and form the basis for making future IT decisions."]
@@ -31,7 +68,7 @@ mindmap
         Testable
         Atomic
             ["The principle does not require any other context or knowledge to be understood"]    
-    Principes
+    Principles
         Architecture Principles
             [TOGAF - Open Group principles]
                 Categorization
