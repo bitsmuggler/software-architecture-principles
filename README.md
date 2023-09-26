@@ -3,6 +3,7 @@
 My thoughts and notes about architecture principles.
 
 ```mermaid
+%%{init: {'theme': 'neutral', 'themeVariables': {'darkMode': true} } }%%
 mindmap
   root((Architecture Principles))
     What is a principles?
