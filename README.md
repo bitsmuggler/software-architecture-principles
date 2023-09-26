@@ -3,7 +3,7 @@
 My thoughts and notes about architecture principles.
 
 ```mermaid
-%%{init: {'theme': 'neutral' } }%%
+%%{init: {'theme': 'neutral', 'themeVariables': {'darkMode': true}, "flowchart" : { "curve" : "basis" } } }%%
 mindmap
   root((Architecture Principles))
     What is a principles?
