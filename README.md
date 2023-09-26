@@ -2,7 +2,9 @@
 
 My thoughts and notes about architecture principles.
 
-```{.mermaid theme=forest}
+``` mermaid
+
+%%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
 
 mindmap
   root((Architecture Principles))
