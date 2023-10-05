@@ -29,7 +29,26 @@ mindmap
 mindmap
   root((Architecture Principles))
     What is a principle?
+        Possible Methaphors
+            A compass
+                A principle is like a compass that guides us through life. It helps us to make decisions and stay on track, even when things are difficult.
+            A foundation
+                A principle is like a foundation that supports our beliefs and values. It gives us strength and resilience when we are faced with challenges.
+            A beacon of light
+                A principle is like a beacon of light that shines in the darkness. It shows us the way and gives us hope.
         ["Wikipedia: Foundation for a system of belief or behavior"]
+        ["Eoin Woods: A declarative statement with the intention of guiding architectural design decisions in order to achieve one or more qualities of a system."]
+```
+
+### What are architecture principles?
+
+``` mermaid
+
+%%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
+
+mindmap
+  root((Architecture Principles))
+    What is an architecture principle?
         ["Eoin Woods: A declarative statement with the intention of guiding architectural design decisions in order to achieve one or more qualities of a system."]
 ```
 
@@ -120,7 +139,27 @@ mindmap
 
 ### Further resources
 
-* [Architecture Principles: An approach to effective decision making in software architecture](https://www.workingsoftware.dev/architecture-principles/)
+#### Architecture Principles
+
+* [Google Cloud Architecture Framework - Core Principles of system design](https://cloud.google.com/architecture/framework/system-design/principles)
+* [AWS Well-Architected Framework - General design principles](https://docs.aws.amazon.com/wellarchitected/latest/framework/general-design-principles.html)
 * [Continuous Architecture Principles](https://continuousarchitecture.com/continuous-architecture-principles/)
 * [TOGAF Architecture Principles](https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap20.html)
+
+
+#### Design Principles
+
+* AWS
+    * [Operation Excellence Design Principles](https://docs.aws.amazon.com/wellarchitected/latest/framework/oe-design-principles.html)
+    * [Security Design Principles](https://docs.aws.amazon.com/wellarchitected/latest/framework/sec-design.html)
+    * [Reliability Design Principles](https://docs.aws.amazon.com/wellarchitected/latest/framework/rel-dp.html)
+    * [Performance efficiency Design principles](https://docs.aws.amazon.com/wellarchitected/latest/framework/perf-dp.html)
+* Microsoft 
+    * [.NET Architecture - Common Design Principles](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles)
+    * [Design Principles for Azure Applications](https://learn.microsoft.com/en-us/azure/architecture/guide/design-principles/)
 * [SOLID Principles](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+
+#### Further Blog Posts
+
+* [Architecture Principles: An approach to effective decision making in software architecture](https://www.workingsoftware.dev/architecture-principles/)
