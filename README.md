@@ -143,4 +143,4 @@ mindmap
 
 * [Architecture Principles: An approach to effective decision making in software architecture](https://www.workingsoftware.dev/architecture-principles/)
 * [SOLID - Is it still useful in 2021](https://dev.to/rhuzaifa/solid-is-it-still-useful-in-2021-5ff6)
-* [CUPID - Properities](https://dannorth.net/cupid-for-joyful-coding/)
+* [Rethink Design Principles via CUPID - Properities](https://dannorth.net/cupid-for-joyful-coding/)
