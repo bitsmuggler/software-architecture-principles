@@ -18,13 +18,13 @@ mindmap
     Why should we use architecture principles?
     When should you introduce architecture principles?
     Characteristics of good architecture principles
-```
+``````
 
-## What is a principle?
+### Thoughts
 
 ``` mermaid
 
-%%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
+%%{init: {'theme': 'black', "flowchart" : { "curve" : "basis" } } }%%
 
 mindmap
   root((Architecture Principles))
@@ -34,35 +34,11 @@ mindmap
                 A principle is like a compass that guides us through life. It helps us to make decisions and stay on track, even when things are difficult.
             A foundation
                 A principle is like a foundation that supports our beliefs and values. It gives us strength and resilience when we are faced with challenges.
-            A beacon of light
-                A principle is like a beacon of light that shines in the darkness. It shows us the way and gives us hope.
+            A lighthouse
+                A principle is like a lighthouse, it shines in the dark or in the storm and helps us navigate through difficult times.
         ["Wikipedia: Foundation for a system of belief or behavior"]
-        ["Eoin Woods: A declarative statement with the intention of guiding architectural design decisions in order to achieve one or more qualities of a system."]
-```
-
-### What are architecture principles?
-
-``` mermaid
-
-%%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
-
-mindmap
-  root((Architecture Principles))
-    What is an architecture principle?
-        ["Eoin Woods: A declarative statement with the intention of guiding architectural design decisions in order to achieve one or more qualities of a system."]
-```
-
-### Complete
-
-``` mermaid
-
-%%{init: {'theme': 'forest', "flowchart" : { "curve" : "basis" } } }%%
-
-mindmap
-  root((Architecture Principles))
-    What is a principle?
-        ["Foundation for a system of belief or behavior"]
     What types of architectural relevant principles are there?
+        Product Principles
         Enterprise principles
         Architecture principles
         Design principles
@@ -105,21 +81,9 @@ mindmap
                 [Use managed services when vendor lock-in is acceptable.]
                 [Prefer standard data formats over third-party formats over user created ones.]
                 ["Principle of Least Effort (POLE)"]
-                Principle of Opportunity Cost
+                Principle of opportunity cost
                 Principle of the last responsible moment
         Design Principles
-            SOLID
-                [5 principles for object-oriented design]
-                    [Single-Responsiblity Principle]
-                        [A class should have one and only one reason to change, meaning that a class should have only one job.]
-                    [Open-Closed Principle]
-                        [Objects or entities should be open for extension but closed for modification.]
-                    [Liskov Substituion Principle]
-                        [Every subclass or derived class should be substitutable for their base or parent class.]
-                    [Interface Segregation Principle]
-                        [A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.]
-                    [Dependency Inversion Principle]
-                        [Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.]
             Loose Coupling
             High Cohesion
             Design for Change
@@ -134,6 +98,21 @@ mindmap
             [Don't repeat yourself]
             Dependency Inversion
             Explicit dependency
+            OOP Principles
+                Rethinking Design Principles via CUPID Properties
+                Open Closed Principles
+                SOLID
+                    [5 principles for object-oriented design by Robert C. Martin in Design Principles and Design Patterns, 2000]
+                        [Single-Responsiblity Principle]
+                            [A class should have one and only one reason to change, meaning that a class should have only one job.]
+                        [Open-Closed Principle]
+                            [Objects or entities should be open for extension but closed for modification.]
+                        [Liskov Substituion Principle]
+                            [Every subclass or derived class should be substitutable for their base or parent class.]
+                        [Interface Segregation Principle]
+                            [A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.]
+                        [Dependency Inversion Principle]
+                            [Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.]
 ```
 
 
@@ -163,3 +142,5 @@ mindmap
 #### Further Blog Posts
 
 * [Architecture Principles: An approach to effective decision making in software architecture](https://www.workingsoftware.dev/architecture-principles/)
+* [SOLID - Is it still useful in 2021](https://dev.to/rhuzaifa/solid-is-it-still-useful-in-2021-5ff6)
+* [CUPID - Properities](https://dannorth.net/cupid-for-joyful-coding/)
