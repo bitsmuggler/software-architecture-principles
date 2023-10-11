@@ -1,6 +1,6 @@
 # Architecture Principles
 
-My thoughts and notes on the software architecture principles.
+My thoughts and notes about software architecture principles.
 
 ## Overview
 
