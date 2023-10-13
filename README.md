@@ -2,6 +2,10 @@
 
 My thoughts and notes about software architecture principles.
 
+These thoughts resulted in a comprehensive blog post:
+
+👉🏻 [Architecture Principles: An approach to effective decision making in software architecture](https://www.workingsoftware.dev/architecture-principles/)
+
 ## Overview
 
 
@@ -120,7 +124,7 @@ mindmap
 ### Books
 
 * [Continuous Architecture in Practice](https://amzn.to/45u29ZB)
-* []
+* [Vorgehensmuster für Software Architektur (german)](https://amzn.to/3tsbN1v)
 
 #### Architecture Principles
 
