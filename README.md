@@ -117,6 +117,11 @@ mindmap
 
 ### Further resources
 
+### Books
+
+* [Continuous Architecture in Practice](https://amzn.to/45u29ZB)
+* []
+
 #### Architecture Principles
 
 * [Google Cloud Architecture Framework - Core Principles of system design](https://cloud.google.com/architecture/framework/system-design/principles)
