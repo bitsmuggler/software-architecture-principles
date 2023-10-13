@@ -121,10 +121,10 @@ mindmap
 
 ### Further resources
 
-### Books
+#### Books
 
-* [Continuous Architecture in Practice](https://amzn.to/45u29ZB)
-* [Vorgehensmuster für Software Architektur (german)](https://amzn.to/3tsbN1v)
+* [Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps by Eoin Woods et al.](https://amzn.to/3ZWXQFa)
+* [Vorgehensmuster für Software Architektur (german) by Stefan Toth](https://amzn.to/3tsbN1v)
 
 #### Architecture Principles
 
